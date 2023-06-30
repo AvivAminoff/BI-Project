@@ -1,14 +1,16 @@
 # BI-Project
 BI Project - Aviv Aminoff, Lior Hazan, Sela Bar, Chen Alfasi, Liran Milles.
-sela bar is in the building.
+Sela bar is in the building.
 liran milles is the king.
 Chen Alfasi is num 1.
-Lior Hazan like git.
+Lior Hazan likes git.
 
-The word files include the answoers of the questions.
-You can see the json file.
+The Word files include the answers to the questions.
+You can see the JSON file.
 The file HW2.ipynb include the ETL code.
-bla.txt file was to check that what we did in the beginning of the assignment is work.
+
+
+The Word file called "Final report" is the final file of the project.
 
 
 
